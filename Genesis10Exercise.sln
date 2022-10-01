@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32901.82
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Genesis10Exercise", "WeatherData\Genesis10Exercise.csproj", "{B5F942C6-8389-4872-8D46-3AAE80D0CA2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Genesis10Exercise", "Genesis10Excercise\Genesis10Exercise.csproj", "{68D3FDB5-BA4D-4C5A-B092-BA9BB21895C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B5F942C6-8389-4872-8D46-3AAE80D0CA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B5F942C6-8389-4872-8D46-3AAE80D0CA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B5F942C6-8389-4872-8D46-3AAE80D0CA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B5F942C6-8389-4872-8D46-3AAE80D0CA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D3FDB5-BA4D-4C5A-B092-BA9BB21895C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D3FDB5-BA4D-4C5A-B092-BA9BB21895C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D3FDB5-BA4D-4C5A-B092-BA9BB21895C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D3FDB5-BA4D-4C5A-B092-BA9BB21895C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
